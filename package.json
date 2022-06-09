@@ -1,4 +1,8 @@
 {
+  "main": "main.js",
+  "scripts": {
+    "test": "jasmine spec/cinema.spec.js"
+  },
   "dependencies": {
     "jasmine": "^4.0.2"
   }
